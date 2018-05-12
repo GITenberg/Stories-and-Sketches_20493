@@ -1,0 +1,34 @@
+_repo: Stories-and-Sketches_20493
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Caswell, Harriet S.
+    aliases:
+    - Caswell, H. S. (Harriet S.)
+    - Caswell, Lemuel E., Mrs.
+    birthdate: 1834
+    gutenberg_agent_id: '6297'
+    url: http://www.gutenberg.org/2009/agents/6297
+description: ''
+gutenberg_issued: '2007-01-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20493'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Short stories'
+- !lcsh 'Essays'
+tableOfContents: "Terry Dolan -- The faithful wife -- Emma Ashton\t -- Thoughts on\
+  \ autumn -- Wandering Davy -- Looking on the dark side -- Edward Barton -- The weary\
+  \ at rest -- The rainy afternoon -- The student's dream -- Uncle Ephraim -- Story\
+  \ of a log cabin -- Hazel-Brook Farm -- Old Rufus -- The diamond ring -- The unfortunate\
+  \ man -- The old schoolhouse -- Arthur Sinclair -- The snow storm -- The new year."
+title: Stories and Sketches
+url: http://www.gutenberg.org/ebooks/20493
